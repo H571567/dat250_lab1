@@ -1,5 +1,13 @@
 # Hand-in: Short report
 
+link to app:
+
+https://enigmatic-beach-66049.herokuapp.com/
+
+https://enigmatic-beach-66049.herokuapp.com/hello
+
+https://enigmatic-beach-66049.herokuapp.com/db
+
 ### Technical problems that you encountered during installation of the software development environment and how you have solved them:
 
 My main problem during the installation was after installing the JDK and Maven. I could not install heroku because my pc could not detect where the JDK and maven was installed. I searched the internet for a solution and found out that I call fix that with editing the path in system enviroment variable. When I did it, I had no problems installing heroku
