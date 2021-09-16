@@ -20,7 +20,7 @@ A screenshot to a completed JUnit test
 
 https://github.com/H571567/DAT250_projects
 
+**an explanation of how you inspected the database tables and what tables were created. For the latter, you may provide screenshots.**
 
-**Any pending issues with this assignment that you did not manage to solve**
+![Skjermbilde (25)](https://user-images.githubusercontent.com/42601584/133600011-37b94735-c8ac-4b19-ab6d-5967bb45a334.png)
 
-I was not sure on what the task was in experiment 2 and did not get any reply when I sent a mail about it.
