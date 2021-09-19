@@ -19,7 +19,6 @@ Relevant results obtained during Experiment 1 (it is not necessary to put a sing
 When trying the other methods, the mongo shell did not work.
 
 
-
 Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
 Making the table:
@@ -43,6 +42,10 @@ Me trying to make a list:
 
 **Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained.**
 
+The advantage og MapReduce is that it is easy to scale data processing over multiple computing nodes. Writing an application in the MapReduce form, scales the application to run over hundred, thousands, or even tens of thousands of machines in a cluster is merely a configuration change. This is why many programmers use the MapReduce model today. 
 
+https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm
 
 **Any pending issues with this assignment which you did not manage to solve**
+
+I did not find out if I had the right installation package
